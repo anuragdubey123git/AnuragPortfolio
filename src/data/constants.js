@@ -99,8 +99,11 @@ export const experiences = [
     role: "Software Engineer",
     company: "Learnmore Technologies",
     date: "July 2025 - Present",
-    desc: "Working on the frontend of the web application using HTML, CSS, Javascript and Reactjs.",
+    desc: "Working on the frontend and backend of the web application using HTML, CSS, Javascript, Reactjs, Python, Django.",
     skills: [
+      "Python",
+      "Django",
+      "SQL",
       "ReactJS",
       "HTML",
       "CSS",
@@ -161,7 +164,7 @@ export const projects = [
     title: "Fake News Detector",
     date: "April 2025",
     description:
-      "Fake image detection using machine learning typically involves training a model on a dataset of both real and fake images, and then using that model to classify new images as either real or fake.",
+      "Fake news detection using machine learning typically involves training a model on a dataset of both real and fake news, and then using that model to classify new news as either real or fake.",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlVQc8ynjHkb4Kwy-EW0FoM66gYxl1yv2BlQ&s",
     tags: ["Python", "Streamlit", "Machine Learning", "Numpy", "Pandas"],
