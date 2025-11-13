@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/anuragdubey123git",
   resume:
-    "https://drive.google.com/file/d/1o9tB-gDehkIYMAEvliinHgEuIUP0B-zk/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1l_Zxx2pNLOTTQJ8YLacXWimnVlOnU0qX/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/anuragdubey75100/",
   twitter: "https://x.com/AnuragDube97416?t=1q-R1XtGYwPiROKOK6_PUg&s=09",
   insta: "https://www.instagram.com/who_anuragdubey/",
@@ -97,7 +97,7 @@ export const experiences = [
     id: 0,
     img: "https://media.licdn.com/dms/image/v2/C560BAQH5gAO4P33XTQ/company-logo_200_200/company-logo_200_200/0/1667915268972?e=2147483647&v=beta&t=pz0s5ewwdwKvHKdDgJxzTjXbCegQp952hVTjsghX-iM",
     role: "Software Engineer",
-    company: "Learnmore Technologies",
+    company: "Edulearnntech Technologies Pvt. Ltd.",
     date: "July 2025 - Present",
     desc: "Working on the frontend and backend of the web application using HTML, CSS, Javascript, Reactjs, Python, Django.",
     skills: [
