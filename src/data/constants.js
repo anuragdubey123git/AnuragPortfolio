@@ -99,7 +99,7 @@ export const experiences = [
     role: "Software Engineer",
     company: "Edulearnntech Technologies Pvt. Ltd.",
     date: "July 2025 - Present",
-    desc: "Working on the frontend and backend of the web application using HTML, CSS, Javascript, Reactjs, Python, Django.",
+    desc: "Developed and deployed full-stack web applications using Python (Django), HTML/CSS/JS, and MySQL, Built and optimized RESTful APIs and database queries for high-performance backend systems, Applied Data Structures & Algorithms for efficient logic and faster execution, Automated workflows with Python scripts and collaborated in Agile teams using Git/GitHub.",
     skills: [
       "Python",
       "Django",
