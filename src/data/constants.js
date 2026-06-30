@@ -1,24 +1,24 @@
 export const Bio = {
   name: "Anurag Dubey",
   roles: [
-    "Software Engineer",
+    "Software Developer",
     "Full Stack Developer",
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things. Experienced in Python, Frappe, ERPNext, Django, ReactJS, and AWS, I specialize in full-stack development and cloud technologies.",
   github: "https://github.com/anuragdubey123git",
   resume:
-    "https://drive.google.com/file/d/1TzWqkhXhf_DQVpOnWqZKZTmUssCZo2RL/view?usp=drivesdk",
-  linkedin: "https://www.linkedin.com/in/anuragdubey75100/",
+    "https://drive.google.com/file/d/1I5pc3aT3nAQWs02C9DrP-oeMxZVYuPGr/view?usp=drivesdk",
+  linkedin: "https://www.linkedin.com/in/anuragdubey75100/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8WqxwQXGSOqQrjYoM0WfXA%3D%3D",
   twitter: "https://x.com/AnuragDube97416?t=1q-R1XtGYwPiROKOK6_PUg&s=09",
   insta: "https://www.instagram.com/who_anuragdubey/",
   facebook: "https://www.facebook.com/share/14ViGutg5FH/",
 };
 
 export const skills = [
-  {
-    title: "Frontend",
+    {
+      title: "Frontend",
     skills: [
       {
         name: "React Js",
@@ -33,17 +33,17 @@ export const skills = [
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://images.seeklogo.com/logo-png/18/1/css3-logo-png_seeklogo-186678.png",
       },
       {
         name: "JavaScript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://images.seeklogo.com/logo-png/33/1/javascript-logo-png_seeklogo-330541.png",
       },
       
     ],
   },
-  {
+{
     title: "Backend",
     skills: [
      
@@ -58,8 +58,28 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
       {
+        name: "PostgreSQL",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg",
+      },
+      {
+        name: "MariaDB",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg",
+      },
+      {
         name: "Django",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIv-wJiBULFewiHP5ohFGkPrynAhick59iQw&s",
+      },
+      {
+        name: "Frappe",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJi_tXcmIeUf8Syd2917b2NpVFwjRGQn6QLR-vn29n3A&s=10",
+      },
+      {
+        name: "ERPNext",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCm8bxZn-NUqRCy8ztGPA0hCJ1Jvla_r4vVzYz0priQA&s=10",
       },
       
     ],
@@ -81,12 +101,22 @@ export const skills = [
       {
         name: "VS Code",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+          "https://freebsdfoundation.org/wp-content/uploads/2024/05/vscode-logo.png",
       },
       {
         name: "Postman",
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrEoo6IXqITP754tpOX1uz0Xh9fmi0i0DSXColZgJvYd2pnF5P-w_N3Y1DSTKGzZVWVAk&usqp=CAU",
+      },
+      {
+        name: "AWS",
+        image:
+          "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+      },
+      {
+        name: "Linux",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg",
       },
     ],
   },
@@ -95,21 +125,40 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwWPXPpmDEZv_SbHTSqhgcnMgdDoy61OxNy2GsUh0zg&s",
+    role: "Associate Software Developer",
+    company: "360ithub Private Limited",
+    date: "December 2025 - Present",
+    desc: "Developed and customized ERP applications using Frappe Framework (Python), Worked on real-time projects like Ashoka and Shanthala improving workflows and system performance, Implemented and configured biometric attendance integration (DAC'S INC), Built backend logic, optimized database queries, and created REST APIs, Collaborated in Agile teams and managed code using Git/GitHub, Collaborated with cross-functional teams to gather and implement requirements, Worked in Agile environment with regular updates and Sprint-Based Delivery.",
+    skills: [
+      "Python",
+      "Django",
+      "Frappe",
+      "ERPNext",
+      "SQL",
+      "MariaDB",
+      "React.JS",
+      "AWS",
+      "GitHub",
+    ],
+  },
+  {
+    id: 1,
     img: "https://media.licdn.com/dms/image/v2/C560BAQH5gAO4P33XTQ/company-logo_200_200/company-logo_200_200/0/1667915268972?e=2147483647&v=beta&t=pz0s5ewwdwKvHKdDgJxzTjXbCegQp952hVTjsghX-iM",
-    role: "Software Engineer",
-    company: "Learnmore Technologies",
-    date: "July 2025 - Present",
-    desc: "Working on the frontend and backend of the web application using HTML, CSS, Javascript, Reactjs, Python, Django.",
+    role: "Full Stack Developer Intern",
+    company: "Edulearnntech Technologies Pvt. Ltd.",
+    date: "July 2025 - Dec 2025",
+    desc: "Developed and deployed full-stack web applications using Python (Django), HTML/CSS/JS, and MySQL, Built and optimized RESTful APIs and database queries for high-performance backend systems, Applied Data Structures & Algorithms for efficient logic and faster execution, Automated workflows with Python scripts and collaborated in Agile teams using Git/GitHub, Optimized application performance by improving backend logic and reducing response time, Implemented authentication, form validation, and dynamic UI features.",
     skills: [
       "Python",
       "Django",
       "SQL",
+      "MariaDB",
       "ReactJS",
       "HTML",
       "CSS",
       "JavaScript",
     ],
-//     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
 
 ];
@@ -117,7 +166,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://www.kit.ac.in/wp-content/uploads/2022/01/cover-768x509.jpg",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiy17f3N9iWWQgQKAf64-mcKU6aIronzTQjpwOfeUDDyzf2cpidNJDJ49F&s=10",
     school: "Kanpur Institute of Technology, Kanpur",
     date: "Aug 2021 - June 2025",
     grade: "8.51 CGPA",
@@ -149,11 +198,11 @@ export const projects = [
   {
     id: 0,
     title: "Whatsapp Clone",
-    date: "August 2025",
+    date: "August 2023",
     description:
       "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbWBegpVLbXaU6VjIYZlC_1eVAkA5hGbKGJmhLcPDLw&s=10",
     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
@@ -162,7 +211,7 @@ export const projects = [
    {
     id: 1,
     title: "Fake News Detector",
-    date: "April 2025",
+    date: "April 2024",
     description:
       "Fake news detection using machine learning typically involves training a model on a dataset of both real and fake news, and then using that model to classify new news as either real or fake.",
     image:
