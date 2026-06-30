@@ -2,5 +2,8 @@
   "buildCommand": "npm run build",
   "outputDirectory": "build",
   "framework": "react",
-  "nodeVersion": "18.x"
+  "nodeVersion": "18.x",
+  "env": {
+    "FORCE_REBUILD": "true"
+  }
 }
