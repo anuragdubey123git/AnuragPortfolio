@@ -4,6 +4,7 @@ const defaultTheme = {
       title: "Space Grotesk, sans-serif",
       main: "Space Grotesk, sans-serif"
     },
+    
     // Colors for layout
     colors: {
       primary1: "#854CE6",
