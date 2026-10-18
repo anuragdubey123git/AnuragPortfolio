@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things. Experienced in Python, Frappe, ERPNext, Django, ReactJS, and AWS, I specialize in full-stack development and cloud technologies.",
   github: "https://github.com/anuragdubey123git",
   resume:
-    "https://drive.google.com/file/d/1I5pc3aT3nAQWs02C9DrP-oeMxZVYuPGr/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1Btyy0EhvjYD3XOtXAjtnNiGQnmV91HQl/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/anuragdubey75100/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8WqxwQXGSOqQrjYoM0WfXA%3D%3D",
   twitter: "https://x.com/AnuragDube97416?t=1q-R1XtGYwPiROKOK6_PUg&s=09",
   insta: "https://www.instagram.com/who_anuragdubey/",
@@ -126,7 +126,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwWPXPpmDEZv_SbHTSqhgcnMgdDoy61OxNy2GsUh0zg&s",
-    role: "Associate Software Developer",
+    role: "Associate Software Engineer",
     company: "360ithub Private Limited",
     date: "December 2025 - Present",
     desc: "Developed and customized ERP applications using Frappe Framework (Python), Worked on real-time projects like Ashoka and Shanthala improving workflows and system performance, Implemented and configured biometric attendance integration (DAC'S INC), Built backend logic, optimized database queries, and created REST APIs, Collaborated in Agile teams and managed code using Git/GitHub, Collaborated with cross-functional teams to gather and implement requirements, Worked in Agile environment with regular updates and Sprint-Based Delivery.",
